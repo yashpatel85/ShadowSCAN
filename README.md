@@ -139,7 +139,11 @@ npm run dev
 ### 🔮 Future Enhancements
 
 Integration with SIEM tools
+
 Advanced deep learning models
+
 Distributed IDS architecture
+
 Threat intelligence integration
+
 Windows notification alerts
