@@ -114,14 +114,14 @@ cd shadowscan
 
 ### Backend Setup
 ```
-cd backend
+cd api
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
 ### Frontend Setup
 ```
-cd frontend
+cd ui
 npm install
 npm run dev
 ```
